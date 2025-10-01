@@ -46,6 +46,53 @@
 		{
 			"Name": "MetaHumanLiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkCurveDebugUI",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "LiveLinkInputDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkOverNDisplay",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "LiveLinkCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkFaceImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkFreeD",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkLens",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkMasterLockit",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkOpenTrackIO",
+			"Enabled": true
 		}
 	]
 }
